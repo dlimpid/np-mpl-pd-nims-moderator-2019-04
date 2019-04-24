@@ -4,9 +4,9 @@
 
 이 튜토리얼에서는 [SciPy 2018 Conference](https://scipy2018.scipy.org/ehome/index.php?eventid=299527)의 세 튜토리얼
 
-- [Introduction to Numerical Computing with NumPy, Alex Chabot-Leclerc](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2018)([영상](https://youtu.be/V0D2mhVt7NE))
-- [Anatomy of Matplotlib, Benjamin Root and Hannah Aizenman](https://github.com/matplotlib/AnatomyOfMatplotlib)([영상](https://youtu.be/6gdNUDs6QPc))
-- [Pandas .head() to .tail(), Niederhut, Augspurger and Van den Bossche](https://github.com/deniederhut/Pandas-Tutorial-SciPyConf-2018)([영상](https://youtu.be/lkLl_QKLgcA))
+- [Introduction to Numerical Computing with NumPy](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2018), Alex Chabot-Leclerc([영상](https://youtu.be/V0D2mhVt7NE))
+- [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib), Benjamin Root and Hannah Aizenman([영상](https://youtu.be/6gdNUDs6QPc))
+- [Pandas .head() to .tail()](https://github.com/deniederhut/Pandas-Tutorial-SciPyConf-2018), Niederhut, Augspurger and Van den Bossche([영상](https://youtu.be/lkLl_QKLgcA))
 
 을 한꺼번에 리뷰합니다.
 
